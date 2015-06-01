@@ -3,8 +3,3 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/WordPress
-hooks:
-  BeforeInstall:
-  AfterInstall:
-  ApplicationStart:
-  ApplicationStop:
